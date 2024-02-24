@@ -4,7 +4,7 @@
 
 ## NOTES
 
-* [Link to my Notes](notes/link-to-my-notes.md)
+* [Link to my Hacking Notes](notes/link-to-my-hacking-notes.md)
 
 ## ✍️ WRITEUPS
 
