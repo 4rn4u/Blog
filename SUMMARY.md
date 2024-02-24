@@ -4,7 +4,7 @@
 
 ## NOTES
 
-* [Page 3](notes/page-3.md)
+* [Link to my Notes](notes/link-to-my-notes.md)
 
 ## ✍️ WRITEUPS
 
