@@ -2,6 +2,10 @@
 
 * [ℹ️ Initial Page](README.md)
 
+## NOTES
+
+* [Page 3](notes/page-3.md)
+
 ## ✍️ WRITEUPS
 
 * [Hack The Box](writeups/hack-the-box/README.md)
