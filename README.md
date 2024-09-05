@@ -4,11 +4,13 @@
 
 Greetings, fellow cyber enthusiasts, and welcome to my personal blog, where we delve into the intricate world of cybersecurity. Whether you're a seasoned expert 🎓, a budding professional 👩‍💻👨‍💻, or simply curious about the digital safeguards that protect our virtual worlds 🌐, WELCOME!!
 
-I'm Arnau Vila and I'm currently studying Computer Engineering at Polytechnical University of Valencia (UPV)!
+🔭 I’m Arnau and I'm currently studying Computer Engineering at Polytechnical University of Valencia (UPV) in ARA (High Academic Performance Group)! I enjoy Cybersecurity and Software Engineering.
 
-Nowadays I'm working for obtaining the HTB CDSA certification! All types of help will be welcome!
+💻 Nowadays I'm studying for obtaining the HTB CPTS (Certified Penetration Tester Specialist) and HTB CDSA (Certified Defensive Security Analyst) certifications while also learning new technologies as HTML, CSS, JavaScript, TypeScript, NodeJs, Electron and React! All type of help will be welcome!
 
-🎶 I also love Music! I play the Euphonium, the Trombone and the Cello and i'm also studying my professional cello performance degree at the conservatory!
+🎶 I also love Music! I play the Euphonium, the Cello and the Trombone and i'm also studying my professional cello performance degree at the conservatory!
+
+📚 Currently I own the INE eJPTv2 (Junior Penetration Tester) and INE ICCA (INE Certified Cloud Associate). Going for more!!
 
 Welcome aboard, and let's embark on this enlightening cyber adventure together! 🚀🌟
 
