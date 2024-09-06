@@ -1,8 +1,8 @@
 # ℹ️ Initial Page
 
+\---------------------------------------------------------------------------------------------------------------------
+
 🔐 Welcome to the 4rn4u's blog of Cybersecurity Insights! 🔍
-
-
 
 Hello everyone! and welcome to my personal blog, where we delve into the vast world of cybersecurity. Whether you're a seasoned expert 🎓, a budding professional 👨‍💻, or simply curious about the digital safeguards 🌐, WELCOME!!
 
