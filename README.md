@@ -29,5 +29,6 @@ Here are my digital doorways where we can keep the conversation going and you ca
 * **GitHub:** [https://github.com/4rn4u](https://github.com/4rn4u)
 * **Hack The Box:** [https://app.hackthebox.com/profile/1208443](https://app.hackthebox.com/profile/1208443)
 * **BTLO:** [https://blueteamlabs.online/public/user/8ffe59877a7e35c52726b3](https://blueteamlabs.online/public/user/8ffe59877a7e35c52726b3)
+* **LinkedIn:** [https://www.linkedin.com/in/arnauvilablanquer/](https://www.linkedin.com/in/arnauvilablanquer/)
 
 Whether it's a quick question, a deep discussion, or just to say hi, I'm all ears! Follow, connect, and drop me a message on any of these platforms. Looking forward to hearing from you!
