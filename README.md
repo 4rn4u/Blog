@@ -1,10 +1,6 @@
----
-description: 🔐 Welcome to the 4rn4u's blog of Cybersecurity Insights! 🔍
----
-
 # ℹ️ Initial Page
 
-
+🔐 Welcome to the 4rn4u's blog of Cybersecurity Insights! 🔍
 
 
 
